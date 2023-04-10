@@ -17,6 +17,8 @@ This is a simple web app that allows you to create and manage sticky notes.
 ## Usage
 
 To use this app, simply open the `index.html` file in your web browser.
+You can also see a live demo of the app [here](https://freitasgilberto.github.io/sticky-notes/).
+
 
 ## Contributions
 
