@@ -22,6 +22,4 @@ To use this app, simply open the `index.html` file in your web browser.
 
 Contributions are welcome! If you find a bug or want to suggest a new feature, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
